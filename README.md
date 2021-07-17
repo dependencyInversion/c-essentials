@@ -302,7 +302,8 @@ int binToDez(int arrLen, bool* bin)
         for(int h=0; h<p; h++) {
             pow += 2;dez *= bin[i] * pow;
         }
-    }return dez;
+    }
+    return dez;
 }
 ```
 

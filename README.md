@@ -4,7 +4,9 @@
 
 
 
-Schreiben Sie ein Programm, welches zwei Eingaben erwartet und dann die Summe ausgibt.Erfragen Sie die Eingaben mit scanf.Beachten Sie die Formatierung der Ausgabe (die muss genau stimmen)
+Schreiben Sie ein Programm, welches zwei Eingaben erwartet und dann die Summe ausgibt.Erfragen Sie die Eingaben mit `scanf`.
+
+Beachten Sie die Formatierung der Ausgabe (die muss genau stimmen)
 
 
 

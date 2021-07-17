@@ -32,6 +32,10 @@ Die Funktion erhält drei Parameter.
 2. boolean Eingabe (0||1)
 3. deren Verknüpfung (*=und, +=oder)
 
+
+
+## Aufgabe 3:
+
 Berechnen Sie das richtige Ergebnis und geben Sie 1||0 zurück.Geben Sie "Unbekannte Anweisung." aus falls der Operator nicht * oder + ist und geben sie -1 zurück.
 
 ```c
@@ -41,7 +45,7 @@ int logik(short a, short b, char operator) {
 
 
 
-## Aufgabe 3:
+## Aufgabe 4:
 
 In den Code zur Skalierung einer Zahl mit einer anderen Zahl haben sich Fehler eingeschlichen.Korrigieren Sie die Fehler und erzeugen Sie die erwartete Funktionalität.
 
@@ -55,7 +59,7 @@ int scale(int a, int b) {
 
 
 
-## Aufgabe 4:
+## Aufgabe 5:
 
 Subtrahieren Sie zwei Arrays.
 
@@ -97,7 +101,7 @@ int main()
 
 
 
-## Aufgabe 5:
+## Aufgabe 6:
 
 Im Folgenden ist ein Programm gezeigt, dass zur Berechnung der Summe von zwei natürlichen Zahlen dienen soll. In diesem Programm haben sich allerdings Fehler eingeschlichen. Korrigieren Sie diese Fehler so, dass die richtige Ausgabe erzeugt wird.
 
@@ -125,7 +129,7 @@ int summe(int a, int b)
 
 
 
-## Aufgabe 6:
+## Aufgabe 7:
 
 Der Code soll die Fakultät einer natürlichen Zahl bis 12 (inklusive) berechnen.Die Zahl soll über scanf eingelesen werden.
 
@@ -164,7 +168,7 @@ int main()
 
 
 
-## Aufgabe 7:
+## Aufgabe 8:
 
 Der folgende Code soll die Quadrate der Zahlen 0-10 errechnen und grafisch darstellen.Leider haben sich im Code Fehler eingeschlichen, die es zu reparieren gilt.
 
@@ -202,7 +206,7 @@ int zumQuadrat(int num) {
 
 
 
-## Aufgabe 8:
+## Aufgabe 9:
 
 Im Folgenden ist ein Programm gezeigt, dass zur Berechnung der Potenz von zwei natürlichen Zahlen dienen soll. In diesem Programm haben sich allerdings Fehler eingeschlichen. Korrigieren Sie diese Fehler so, dass die richtige Ausgabe erzeugt wird.
 
@@ -236,7 +240,7 @@ int potenz(int Basis, int n)
 
 
 
-## Aufgabe 9:
+## Aufgabe 10:
 
 Der Code soll den größten gemeinsamen Teiler zweier natürlicher Zahlen berechnen.Leider haben sich Fehler eingeschlichen.Bitte korrigieren Sie diese.
 
@@ -270,7 +274,7 @@ int main()
 
 
 
-## Aufgabe 10:
+## Aufgabe 11:
 
 Schreiben Sie ein Program, welches eine Eingabe erwartet und dann für die eingegebene Zahl das kleine 1x1 ausgibt.
 
@@ -286,7 +290,7 @@ Eingabe 8
 
 
 
-## Aufgabe 11:
+## Aufgabe 12:
 
 In den Code zur Umwandlung einer Binärzahl in eine Dezimalzahl haben sich Fehler eingeschlichen.
 
@@ -311,7 +315,7 @@ int binToDez(int arrLen, bool* bin)
 
 
 
-## Aufgabe 12:
+## Aufgabe 13:
 
 Der folgende Code soll eine Dezimalzahl korrekt in eine Binärzahl umformatieren.
 

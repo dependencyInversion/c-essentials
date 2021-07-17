@@ -57,14 +57,14 @@ int scale(int a, int b) {
 
 Subtrahieren Sie zwei Arrays.
 
-Die Daten für die beiden Arrays werden schon vom vorgegebenen Kode eingelesen (zwischen den entsprechenden Kommentaren den Kode nicht ändern).Die Formatierung der Ausgabe ist auch schon im vorgegebenen Kode.
+Die Daten für die beiden Arrays werden schon vom vorgegebenen Code eingelesen (zwischen den entsprechenden Kommentaren den Code nicht ändern).Die Formatierung der Ausgabe ist auch schon im vorgegebenen Code.
 
 
 
 ```c
 int main()
 {
-    //Lassen Sie den nachfolgenden Kode unverändert.
+    //Lassen Sie den nachfolgenden Code unverändert.
     int a[100], b[100], i=0, e;
     do {
         scanf("%d",&e);
@@ -80,15 +80,15 @@ int main()
         i++;
     } while(e != -1111);
     
-    //Lassen Sie den Kode bis hierher unverändert.
+    //Lassen Sie den Code bis hierher unverändert.
     // [...]
-    //Lassen Sie den nachfolgenden Kode unverändert.
+    //Lassen Sie den nachfolgenden Code unverändert.
     
     while(c[i] != -1111) {
         printf("%d ",c[i]); //Array ausgeben.
         i++;
     }
-    //Lassen Sie den Kode bis hierher unverändert.
+    //Lassen Sie den Code bis hierher unverändert.
     return 0;
 }
 ```
@@ -125,7 +125,7 @@ int summe(int a, int b)
 
 ## Aufgabe 6:
 
-Der Kode soll die Fakultät einer natürlichen Zahl bis 12 (inklusive) berechnen.Die Zahl soll über scanf eingelesen werden.
+Der Code soll die Fakultät einer natürlichen Zahl bis 12 (inklusive) berechnen.Die Zahl soll über scanf eingelesen werden.
 
 Die Ausgabe ist die Fakultät.
 
@@ -164,7 +164,7 @@ int main()
 
 ## Aufgabe 7:
 
-Der folgende Kode soll die Quadrate der Zahlen 0-10 errechnen und grafisch darstellen.Leider haben sich im Kode Fehler eingeschlichen, die es zu reparieren gilt.
+Der folgende Code soll die Quadrate der Zahlen 0-10 errechnen und grafisch darstellen.Leider haben sich im Code Fehler eingeschlichen, die es zu reparieren gilt.
 
 
 
@@ -236,7 +236,7 @@ int potenz(int Basis, int n)
 
 ## Aufgabe 9:
 
-Der Kode soll den größten gemeinsamen Teiler zweier natürlicher Zahlen berechnen.Leider haben sich Fehler eingeschlichen.Bitte korrigieren Sie diese.
+Der Code soll den größten gemeinsamen Teiler zweier natürlicher Zahlen berechnen.Leider haben sich Fehler eingeschlichen.Bitte korrigieren Sie diese.
 
 
 
@@ -286,7 +286,7 @@ Eingabe 8
 
 ## Aufgabe 11:
 
-In den Kode zur Umwandlung einer Binärzahl in eine Dezimalzahl haben sich Fehler eingeschlichen.
+In den Code zur Umwandlung einer Binärzahl in eine Dezimalzahl haben sich Fehler eingeschlichen.
 
 Korrigieren Sie die Fehler und erzeugen Sie die erwartete Funktionalität.
 
@@ -310,13 +310,13 @@ int binToDez(int arrLen, bool* bin)
 
 ## Aufgabe 12:
 
-Der folgende Kode soll eine Dezimalzahl korrekt in eine Binärzahl umformatieren.
+Der folgende Code soll eine Dezimalzahl korrekt in eine Binärzahl umformatieren.
 
-Beachten Sie, dass der Kode keine großen Dezimalzahlen umwandeln kann, da die Binärzahl als long gespeichert wird.
+Beachten Sie, dass der Code keine großen Dezimalzahlen umwandeln kann, da die Binärzahl als long gespeichert wird.
 
 Dieser Umstand ist nicht zu korrigieren.
 
-Leider haben sich im Kode aber Fehler eingeschlichen, die es zu reparieren gilt.
+Leider haben sich im Code aber Fehler eingeschlichen, die es zu reparieren gilt.
 
 
 
